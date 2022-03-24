@@ -1,0 +1,5 @@
+username_textbox: //input[@id="user-name"]
+password_textbox: //input[@id="password"]
+login_button:     //input[@id="login-button"]
+dashboard_check:  //span[@class="title"]
+error_message:    //div[@class="error-message-container error"]
